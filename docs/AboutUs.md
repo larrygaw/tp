@@ -34,18 +34,18 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 ### Johnny Doe
 
 <img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/larrygaw)]
+[[github](http://github.com/johndoe)]
+[[portfolio](team/larrygaw)]
 
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Martin Tan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/amptea.png" width="200px">
+[[github](http://github.com/amptea)]
+[[portfolio](team/martin.md)]
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/larrygaw)]
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
