@@ -21,6 +21,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/larrygaw.md)]
 
 * Role: Developer
+* Responsibilities: UI
+
 
 ### Tan Kuan Feng
 
@@ -33,12 +35,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: UI
 
-### Johnny Doe
+### Aaron Goh Chong Jun
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/aaroncjgoh.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-
+[[github](http://github.com/aaroncjgoh)]
+[[portfolio](team/aaroncjgoh.md)]
 
 * Role: Developer
 * Responsibilities: Data
@@ -50,7 +52,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/amptea)]
 [[portfolio](team/martin.md)]
 
-
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
 
@@ -59,6 +60,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/johndoe.png" width="200px">
 
 [[github](http://github.com/johndoe)]
+[[portfolio](team/johndoe.md)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilites: UI
