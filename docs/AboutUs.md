@@ -11,15 +11,16 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Larry Gaw
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/larrygaw.png" width="200px">
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/goodguykf)]
 
-* Role: Project Advisor
+[[github](https://github.com/larrygaw)]
+[[portfolio](team/larrygaw.md)]
+
+* Role: Developer
 
 ### Tan Kuan Feng
 
@@ -28,6 +29,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[github](http://github.com/goodguykf)]
 [[portfolio](team/goodguykf.md)]
 
+
 * Role: Developer
 * Responsibilities: UI
 
@@ -35,17 +37,19 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/johndoe.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/goodguykf)]
+[[github](http://github.com/johndoe)]
+
 
 * Role: Developer
 * Responsibilities: Data
 
-### Jean Doe
+### Martin Tan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/amptea.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/goodguykf)]
+[[github](http://github.com/amptea)]
+[[portfolio](team/martin.md)]
+
 
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
@@ -55,7 +59,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 <img src="images/johndoe.png" width="200px">
 
 [[github](http://github.com/johndoe)]
-[[portfolio](team/goodguykf)]
 
 * Role: Developer
 * Responsibilities: UI
