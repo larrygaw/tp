@@ -11,34 +11,29 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Larry Gaw
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/larrygaw.png" width="200px">
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
 
-* Role: Project Advisor
-
-### Jane Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
-
-* Role: Team Lead
-* Responsibilities: UI
-
-### Johnny Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
+[[github](https://github.com/larrygaw)]
+[[portfolio](team/larrygaw.md)]
 
 * Role: Developer
-* Responsibilities: Data
+* Responsibilities: UI
+
+
+### Tan Kuan Feng
+
+<img src="images/goodguykf.png" width="200px">
+
+[[github](http://github.com/goodguykf)]
+[[portfolio](team/goodguykf.md)]
+
+
+* Role: Developer
+* Responsibilities: UI
 
 ### Aaron Goh Chong Jun
 
@@ -48,14 +43,14 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/aaroncjgoh.md)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: Data
 
-### James Doe
+### Martin Tan
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/amptea.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/amptea)]
+[[portfolio](team/martin.md)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: Dev Ops + Threading
