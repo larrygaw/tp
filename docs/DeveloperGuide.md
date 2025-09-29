@@ -274,13 +274,18 @@ _{Explain here how the data archiving feature will be implemented}_
 
 **Target user profile**:
 
+* sales representatives
+* tired of messy and complicated Excel sheets
+* wants more efficient and seamless experience tracking potential clients
 * has a need to manage a significant number of contacts
 * prefer desktop apps over other types
 * can type fast
 * prefers typing to mouse interactions
 * is reasonably comfortable using CLI apps
 
-**Value proposition**: manage contacts faster than a typical mouse/GUI driven app
+**Value proposition**: 
+sales representatives will have more efficient control over tracking their client interaction and progress,
+thereby improving their operational efficiency
 
 
 ### User stories
