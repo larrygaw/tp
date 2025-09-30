@@ -371,8 +371,16 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 1.  Should work on any _mainstream OS_ as long as it has Java `17` or above installed.
 2.  Should be able to hold up to 1000 persons without a noticeable sluggishness in performance for typical usage.
 3.  A user with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse.
-
-*{More to be added}*
+4. The client list should be stored locally and be in a human editable text file.
+5. ClientHub should be able to work without requiring an installer.
+6. The GUI of ClientHub should not have any resolution-related inconveniences for the user, standard screen resolutions 1920x1080 and higher, and for screen scales 100% and 125%.
+7. The GUI of ClientHub should be usable, even if user experience is not optimal, for resolutions 1280x720 and higher, and for screen scales 150%.
+8. ClientHub should still be functional even if new commands, fields, or parameters are added in the future.
+9. The commands should not take more than 5 seconds to run and carry out its response.
+10. ClientHub should be usable by someone who cannot remember the commands, or is new to ClientHub.
+11. ClientHub should not handle communication between clients and sales representatives.
+12. Client list should be persistent and not change unless edited with a command or through text editor by user.
+13. Other users should be not able to see each others' client lists, they should be private and visible only to the current user.
 
 ### Glossary
 
