@@ -13,7 +13,7 @@
 
 ## **Acknowledgements**
 
-_{ list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well }_
+This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -305,16 +305,50 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 ### Use cases
 
-(For all use cases below, the **System** is the `AddressBook` and the **Actor** is the `user`, unless specified otherwise)
+(For all use cases below, the **System** is the `ClientHub` and the **Actor** is the `user`, unless specified otherwise)
+
+**Use case: Add a person**
+
+**MSS**
+
+1.  User requests to add a new person.
+2.  ClientHub requests the person details from the user.
+3.  User provides the person details.
+4.  ClientHub adds the person to ClientHub.
+
+    Use case ends.
+
+**Extensions**
+* 3a. The given person details are invalid.
+
+    * 3a1. ClientHub shows an error message.
+
+      Use case resumes at step 2.
+
+**Use case: Find a Person**
+
+**MSS**
+1.  User requests to find persons by name.
+2.  ClientHub requests the name or part of the name to search for.
+3.  User provides the name or part of the name to search for.
+4.  ClientHub shows a list of persons whose names contain the given name or part of the name.
+
+    Use case ends.
+
+**Extensions**
+* 4a. No persons found.
+* 4a1. ClientHub shows a message indicating that no persons were found.
+
+    Use case ends.
 
 **Use case: Delete a person**
 
 **MSS**
 
 1.  User requests to list persons
-2.  AddressBook shows a list of persons
+2.  ClientHub shows a list of persons
 3.  User requests to delete a specific person in the list
-4.  AddressBook deletes the person
+4.  ClientHub deletes the person
 
     Use case ends.
 
@@ -326,7 +360,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 * 3a. The given index is invalid.
 
-    * 3a1. AddressBook shows an error message.
+    * 3a1. ClientHub shows an error message.
 
       Use case resumes at step 2.
 
