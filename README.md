@@ -3,7 +3,7 @@
 ![Ui](docs/images/Ui.png)
 
 ## Overview
-ClientHub is a **Command Line Interface (CLI) contact management application** built specifically for sales representatives. Unlike spreadsheets or complicated CRMs, ClientHub provides a **fast, lightweight, and efficient way to track clients, manage interactions, and monitor progress**, all from the terminal.
+ClientHub is a **Command Line Interface (CLI) contact management application** built specifically for sales representatives. Unlike spreadsheets or complicated CRMs, ClientHub provides a **fast, lightweight, and efficient way to track clients, manage interactions, and monitor progress**, all with a CLI.
 
 Our goal is to give sales representatives a **seamless client tracking experience** so they can spend less time wrestling with messy tools and more time securing deals.
 
