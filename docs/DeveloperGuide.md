@@ -4,7 +4,7 @@
   pageNav: 3
 ---
 
-# AB-3 Developer Guide
+# ClientHub Developer Guide
 
 <!-- * Table of Contents -->
 <page-nav-print />
@@ -407,8 +407,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 ### Glossary
 
-* **Mainstream OS**: Windows, Linux, Unix, MacOS
-* **Private contact detail**: A contact detail that is not meant to be shared with others
+* **Outreach Statuses**: No Contact, Contacted, Onboarded
 
 --------------------------------------------------------------------------------------------------------------------
 
