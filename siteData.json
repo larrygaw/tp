@@ -11,7 +11,7 @@
         "tan-kuan-feng": "Tan Kuan Feng",
         "aaron-goh-chong-jun": "Aaron Goh Chong Jun",
         "martin-tan": "Martin Tan",
-        "james-doe": "James Doe"
+        "hou-zhenming": "Hou Zhenming"
       },
       "headingKeywords": {}
     },
@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "clienthub-developer-guide": "ClientHub Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -105,9 +105,9 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
+      "title": "ClientHub User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "clienthub-user-guide": "ClientHub User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -131,7 +131,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "clienthub": "ClientHub"
       },
       "headingKeywords": {}
     },
@@ -145,6 +145,14 @@
     },
     {
       "src": "team/goodguykf.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/houzhenming.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
