@@ -108,7 +108,9 @@
       "title": "ClientHub User Guide",
       "headings": {
         "clienthub-user-guide": "ClientHub User Guide",
-        "quick-start": "Quick start",
+        "introduction": "Introduction",
+        "getting-started": "Getting Started",
+        "installation": "Installation",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",

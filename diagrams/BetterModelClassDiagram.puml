@@ -2,20 +2,28 @@
 !include style.puml
 skinparam arrowThickness 1.1
 skinparam arrowColor MODEL_COLOR
-skinparam classBackgroundColor MODEL_COLOR
+
+@startuml
+hide circle
+hide empty members
+skinparam classAttributeIconSize 0
+skinparam classBackgroundColor AA0000
+skinparam classFontColor white
+skinparam classAttributeFontColor white
+
+class Person {
+    - products: Set<Product>
+}
 
 AddressBook *-right-> "1" UniquePersonList
-AddressBook *-right-> "1" UniqueTagList
-UniqueTagList -[hidden]down- UniquePersonList
-UniqueTagList -[hidden]down- UniquePersonList
 
-UniqueTagList -right-> "*" Tag
 UniquePersonList -right-> Person
 
-Person -up-> "*" Tag
+Person *--> "1" Name
+Person *--> "1" Phone
+Person *--> "1" Company
+Person *--> "1" Email
+Person *--> "1" Address
+Person *--> "1" Status
 
-Person *--> Name
-Person *--> Phone
-Person *--> Email
-Person *--> Address
 @enduml
